@@ -13,11 +13,12 @@
   </h1>
 
   <!-- Typing animation -->
- <p>
+<p>
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00FFFF&center=true&vCenter=true&width=650&lines=Undergraduate+Software+Engineering+Student;Java+%7C+Spring+Boot+%7C+Python+%7C+AI;HTML+%7C+CSS+%7C+JavaScript;Astronomy+%26+Engineering+Enthusiast;Always+Learning+and+Building+Projects+%E2%9C%A8" alt="Typing SVG">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00FFFF&center=true&vCenter=true&weight=400&size=20&width=850&lines=Hi,+I'm+Supun+Dewsith,+an+undergraduate+Software+Engineering+student.;I+love+building+projects+with+Java,+Spring+Boot,+Python,+and+AI.;I+also+enjoy+creating+web+pages+using+HTML,+CSS,+and+JavaScript.;Outside+of+coding,+I'm+passionate+about+Astronomy+and+Engineering.;Always+learning+and+exploring+new+things+%E2%9C%A8" alt="Typing SVG">
   </a>
 </p>
+
 
   <!-- Profile views -->
   <p>
@@ -29,11 +30,11 @@
 </div>
 <div align="left">
   
-- :student: Undergraduate in `Software Engineering` with strong interest in `Backend Development` and `AI`.<br>
-- :technologist: Passionate about using `Software` and `Technology` to solve real-world problems.<br>
-- :computer: Experienced in `Java`, `Spring Boot`, `Python`, and building small projects to practice skills.<br>
-- :telescope: Astronomy enthusiast and lifelong learner in `Engineering` and `Space Science`.<br>
-- :gear: Interested in `Mechanical`, `Aerospace`, and `Electrical Engineering`.<br>
+- :student: Undergraduate in `Software Engineering` with strong interest in `Backend Development` and `AI`.
+- :technologist: Passionate about using `Software` and `Technology` to solve real-world problems.
+- :computer: Experienced in `Java`, `Spring Boot`, `Python`, and building small projects to practice skills.
+- :telescope: Astronomy enthusiast and lifelong learner in `Engineering` and `Space Science`.
+- :gear: Interested in `Mechanical`, `Aerospace`, and `Electrical Engineering`.
 - :nerd_face: Always `learning new things` and experimenting with new technologies.
 
 <br><br>
@@ -110,9 +111,5 @@
     <img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-05122A?style=flat&logo=leetcode">
     <img alt="Stack Overflow" src="https://img.shields.io/badge/Stack%20Overflow-05122A?style=flat&logo=stackoverflow">
   </kbd>
-
   <br>
-
-  
-
 </div>
