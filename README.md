@@ -15,9 +15,10 @@
   <!-- Typing animation -->
 <p>
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00FFFF&center=true&vCenter=true&weight=400&size=20&width=850&lines=Hi,+I'm+Supun+Dewsith,+an+undergraduate+Software+Engineering+student.;I+love+building+projects+with+Java,+Spring+Boot,+Python,+and+AI.;I+also+enjoy+creating+web+pages+using+HTML,+CSS,+and+JavaScript.;Outside+of+coding,+I'm+passionate+about+Astronomy+and+Engineering.;Always+learning+and+exploring+new+things+%E2%9C%A8" alt="Typing SVG">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&weight=100&size=20&pause=1000&color=00FFFF&center=true&vCenter=true&width=850&lines=Undergraduate+Software+Engineering+student,;I+love+building+projects+with+Java,+Spring+Boot,+Python,+and+AI,;I+also+enjoy+creating+web+pages+using+HTML,+CSS,+and+JavaScript,;Outside+of+coding,+I'm+passionate+about+Astronomy+and+Engineering,;Always+learning+and+exploring+new+things+%E2%9C%A8" alt="Typing SVG">
   </a>
 </p>
+
 
 
   <!-- Profile views -->
@@ -82,7 +83,6 @@
     <br><br>
     <img alt="NumPy" src="https://img.shields.io/badge/NumPy-05122A?style=flat&logo=numpy">
     <img alt="Pandas" src="https://img.shields.io/badge/Pandas-05122A?style=flat&logo=pandas">
-    <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-05122A?style=flat&logo=opencv">
     <img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-05122A?style=flat">
   </kbd>
 
@@ -105,8 +105,6 @@
     <img alt="Git" src="https://img.shields.io/badge/Git-05122A?style=flat&logo=git">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-05122A?style=flat&logo=github">
     <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-05122A?style=flat&logo=visual-studio-code">
-    <img alt="Postman" src="https://img.shields.io/badge/Postman-05122A?style=flat&logo=postman">
-    <img alt="Notion" src="https://img.shields.io/badge/Notion-05122A?style=flat&logo=notion">
     <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-05122A?style=flat&logo=jupyter">
     <img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-05122A?style=flat&logo=leetcode">
     <img alt="Stack Overflow" src="https://img.shields.io/badge/Stack%20Overflow-05122A?style=flat&logo=stackoverflow">
