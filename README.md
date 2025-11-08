@@ -28,6 +28,7 @@
 <br><br>
 </div>
 <div align="left">
+  
 - :student: Undergraduate in `Software Engineering` with strong interest in `Backend Development` and `AI`.<br>
 - :technologist: Passionate about using `Software` and `Technology` to solve real-world problems.<br>
 - :computer: Experienced in `Java`, `Spring Boot`, `Python`, and building small projects to practice skills.<br>
