@@ -33,7 +33,7 @@
   
 - :student: Undergraduate in `Software Engineering` with strong interest in `Backend Development` and `AI`.
 - :technologist: Passionate about using `Software` and `Technology` to solve real-world problems.
-- :computer: Experienced in `Java`, `Spring Boot`, `Python`, and building small projects to practice skills.
+- :computer: Experienced in `Java`, `Spring Boot`, `Python`, and building projects to practice skills.
 - :telescope: Astronomy enthusiast and lifelong learner in `Engineering` and `Space Science`.
 - :gear: Interested in `Mechanical`, `Aerospace`, and `Electrical Engineering`.
 - :nerd_face: Always `learning new things` and experimenting with new technologies.
