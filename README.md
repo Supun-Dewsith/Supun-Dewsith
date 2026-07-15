@@ -15,14 +15,7 @@
       <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&weight=100&size=20&pause=1000&color=00FFFF&center=true&vCenter=true&width=850&lines=Undergraduate+Software+Engineering+student,;I+love+building+projects+with+Java,+Spring+Boot,+.NET,+and+AI,;I+enjoy+crafting+dynamic+web+and+mobile+applications,;Outside+of+coding,+I'm+passionate+about+Astronomy+and+Engineering,;Always+learning+and+exploring+new+things+%E2%9C%A8" alt="Typing SVG">
     </a>
   </p>
-
-  <!-- Profile views -->
-  <p>
-    <a href="https://github.com/supundewsith">
-      <img src="https://komarev.com/ghpvc/?username=supundewsith&label=Profile+Views&color=00FFFF&style=flat-square" alt="views"/>
-    </a>
-  </p>
-<br><br>
+  
 </div>
 
 
