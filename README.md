@@ -129,6 +129,7 @@ Beyond core software development, I have a massive fascination with hardware, cr
    <img alt="Git" src="https://img.shields.io/badge/Git-05122A?style=flat&logo=git">
    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-05122A?style=flat&logo=github">
    <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ%20IDEA-05122A?style=flat&logo=intellijidea">
+   <img alt="JetBrains Rider" src="https://img.shields.io/badge/Rider-05122A?style=flat&logo=jetbrains-rider&logoColor=white">
    <img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-05122A?style=flat&logo=androidstudio">
    <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-05122A?style=flat&logo=visual-studio-code">
    <img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-05122A?style=flat&logo=leetcode">
