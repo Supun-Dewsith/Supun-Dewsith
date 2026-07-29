@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Header GIF -->
-  <img src="https://media.giphy.com/media/WUyQbeKHhpaHrrKJu6/giphy.gif" width="400" height="300" alt="GIF Animation">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="400" height="300" alt="GIF Animation">
 
   <!-- Title Header -->
   <h1>
