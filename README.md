@@ -31,13 +31,9 @@ Beyond core software development, I have a massive fascination with hardware, cr
    <kbd>Programming Languages</kbd>
    <br><br>
    <img alt="Java" src="https://img.shields.io/badge/Java-05122A?style=flat&logo=openjdk">
-   <img alt="C#" src="https://img.shields.io/badge/C%23-05122A?style=flat&logo=csharp">
-   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-05122A?style=flat&logo=javascript">
    <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-05122A?style=flat&logo=typescript">
-   <img alt="Python" src="https://img.shields.io/badge/Python-05122A?style=flat&logo=python">
-   <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-05122A?style=flat&logo=kotlin">
+   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-05122A?style=flat&logo=javascript">
    <img alt="Dart" src="https://img.shields.io/badge/Dart-05122A?style=flat&logo=dart">
-   <img alt="C" src="https://img.shields.io/badge/C-05122A?logo=c&style=flat">
  </kbd>
 
  <br>
@@ -49,8 +45,6 @@ Beyond core software development, I have a massive fascination with hardware, cr
    <br><br>
    <img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-05122A?style=flat&logo=springboot">
    <img alt="Node.js" src="https://img.shields.io/badge/Node.js-05122A?style=flat&logo=nodedotjs">
-   <img alt=".NET" src="https://img.shields.io/badge/.NET-05122A?style=flat&logo=dotnet">
-   <img alt="REST APIs" src="https://img.shields.io/badge/REST%20APIs-05122A?style=flat&logo=postman">
  </kbd>
 
  <br>
@@ -63,9 +57,6 @@ Beyond core software development, I have a massive fascination with hardware, cr
    <img alt="Angular" src="https://img.shields.io/badge/Angular-05122A?style=flat&logo=angular">
    <img alt="React" src="https://img.shields.io/badge/React-05122A?style=flat&logo=react">
    <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-05122A?style=flat&logo=tailwindcss">
-   <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-05122A?style=flat&logo=bootstrap">
-   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-05122A?style=flat&logo=html5">
-   <img alt="CSS3" src="https://img.shields.io/badge/CSS3-05122A?style=flat&logo=css3">
  </kbd>
 
  <br>
@@ -101,18 +92,18 @@ Beyond core software development, I have a massive fascination with hardware, cr
    <br><br>
    <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-05122A?style=flat&logo=postgresql">
    <img alt="MySQL" src="https://img.shields.io/badge/MySQL-05122A?style=flat&logo=mysql">
-   <img alt="Redis" src="https://img.shields.io/badge/Redis-05122A?style=flat&logo=redis">
    <img alt="Supabase" src="https://img.shields.io/badge/Supabase-05122A?style=flat&logo=supabase">
  </kbd>
 
  <br>
 <br>
 
- <!-- ☁️ DevOps & Cloud -->
+<!-- ☁️ DevOps & Cloud -->
  <kbd>
    <kbd>DevOps & Cloud</kbd>
    <br><br>
    <img alt="AWS" src="https://img.shields.io/badge/AWS-05122A?style=flat&logo=amazonwebservices">
+   <img alt="Azure" src="https://img.shields.io/badge/Microsoft%20Azure-05122A?style=flat&logo=microsoftazure">
    <img alt="Docker" src="https://img.shields.io/badge/Docker-05122A?style=flat&logo=docker">
    <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-05122A?style=flat&logo=githubactions">
    <img alt="Cloudflare" src="https://img.shields.io/badge/Cloudflare-05122A?style=flat&logo=cloudflare">
@@ -127,13 +118,10 @@ Beyond core software development, I have a massive fascination with hardware, cr
    <kbd>Software & Tools</kbd>
    <br><br>
    <img alt="Git" src="https://img.shields.io/badge/Git-05122A?style=flat&logo=git">
-   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-05122A?style=flat&logo=github">
    <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ%20IDEA-05122A?style=flat&logo=intellijidea">
    <img alt="JetBrains Rider" src="https://img.shields.io/badge/Rider-05122A?style=flat&logo=jetbrains-rider&logoColor=white">
    <img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-05122A?style=flat&logo=androidstudio">
    <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-05122A?style=flat&logo=visual-studio-code">
-   <img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-05122A?style=flat&logo=leetcode">
-   <img alt="Stack Overflow" src="https://img.shields.io/badge/Stack%20Overflow-05122A?style=flat&logo=stackoverflow">
  </kbd>
  <br>
  
