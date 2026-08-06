@@ -1,8 +1,13 @@
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="header-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="header-light.svg">
+    <img alt="Hi, I'm Supun Dewsith" src="header-light.svg" width="100%">
+  </picture>
+</p>
+
 <div align="center">
-
-  <!-- Header GIF -->
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="400" height="300" alt="GIF Animation">
-
+  
   <!-- Title Header -->
   <h1>
     <b>Hi, I'm Supun Dewsith</b>
