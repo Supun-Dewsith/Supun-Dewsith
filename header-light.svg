@@ -1,0 +1,11 @@
+<svg width="1200" height="200" viewBox="0 0 1200 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="200" rx="12" fill="#ffffff" />
+  <path d="M0 50H1200 M0 100H1200 M0 150H1200" stroke="#e1e4e8" stroke-width="1" opacity="0.5" />
+  <path d="M200 0V200 M400 0V200 M600 0V200 M800 0V200 M1000 0V200" stroke="#e1e4e8" stroke-width="1" opacity="0.5" />
+  <text x="600" y="95" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="54" font-weight="700" fill="#24292e">
+    Hi, I'm <tspan fill="#0969da">Supun Dewsith</tspan>
+  </text>
+  <text x="600" y="140" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="20" font-weight="400" fill="#586069" letter-spacing="3">
+    CREATING &bull; SOLVING &bull; BUILDING
+  </text>
+</svg>
