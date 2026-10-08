@@ -2,9 +2,9 @@
 <div align="center">
 
   <!-- Header GIF -->
-  <img width=100% alt="cover-gif" src="https://github.com/user-attachments/assets/7a13b72e-7904-463a-b49a-70bf30e65eb8" />
+  <img width=100% alt="ezgif-28a6192261c9ad37" src="https://github.com/user-attachments/assets/14fdb130-a61e-4337-9e9d-ba2b8bed5d0c" />
 
- <!-- Title Header -->
+  <!-- Title Header -->
   <h1>
     <span style="font-family: monospace; color: #00F0FF;"># system.init(&quot;Supun Dewsith&quot;)</span>
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" alt="wave">
