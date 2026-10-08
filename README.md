@@ -1,7 +1,8 @@
+
 <div align="center">
 
   <!-- Header GIF -->
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="400" height="300" alt="GIF Animation">
+  <img width=100% alt="cover-gif" src="https://github.com/user-attachments/assets/7a13b72e-7904-463a-b49a-70bf30e65eb8" />
 
   <!-- Title Header -->
   <h1>
