@@ -4,15 +4,17 @@
   <!-- Header GIF -->
   <img width=100% alt="cover-gif" src="https://github.com/user-attachments/assets/7a13b72e-7904-463a-b49a-70bf30e65eb8" />
 
-  <!-- Title Header -->
+ <!-- Title Header -->
   <h1>
-    <b>Hi, I'm Supun Dewsith</b>
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" alt="wave">
+    <span style="font-family: monospace; color: #00F0FF;"># system.init(&quot;Supun Dewsith&quot;)</span>
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" alt="wave">
   </h1>
 
-  <!-- Typing animation -->
+  <!-- Cyber Typing SVG (JetBrains Mono / Terminal Style) -->
   <p>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&weight=100&size=20&pause=1000&color=00FFFF&center=true&vCenter=true&width=850&lines=Undergraduate+Software+Engineering+student,;I+love+building+projects+with+Java,+Spring+Boot,+.NET,+and+AI,;I+enjoy+crafting+dynamic+web+and+mobile+applications,;Outside+of+coding,+I'm+passionate+about+Astronomy+and+Engineering,;Always+learning+and+exploring+new+things+%E2%9C%A8" alt="Typing SVG">
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=00F0FF&background=0D111700&center=true&vCenter=true&width=850&lines=%3E+_Undergraduate_Software_Engineer;%3E+Architecting_distributed_systems_with_Java_+_Spring_+_.NET;%3E+Bridging_software%2C_hardware_+_space_science;%3E+Status%3A+Compiling_clean_code+%26+learning_everyday" alt="Terminal Typing SVG" />
+    </a>
   </p>
   
 </div>
